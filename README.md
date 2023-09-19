@@ -1,12 +1,14 @@
 # Data Cloud Project - Google Maps
 Repository that contains only the general documentation about the Data Cloud Project - Google Maps, which is a set of some repositories.
 
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=fff&style=for-the-badge">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<div>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=fff&style=for-the-badge" style="display: inline-block;">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/ style="display: inline-block;">
+</div>
 
 ## Project contextualization
 
